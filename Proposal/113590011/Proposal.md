@@ -1,6 +1,6 @@
 # Abstract
 
-遊戲名稱：Giraffe Adventure v2
+遊戲名稱：Brotato
 
 組員：
 
