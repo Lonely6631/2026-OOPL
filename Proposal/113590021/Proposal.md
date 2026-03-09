@@ -1,15 +1,25 @@
 # Abstract
-
-遊戲名稱：魔王位上的勇者 (YUUSHA ON THE MAOU CHAIR)
+遊戲名稱：元氣騎士
 
 組員：
 - 111590021 邱冠勛
 - 113590049 朱政全
 
 # Game Introduction
+### 遊戲內容與簡介
+一款 2D 的槍枝攻擊涉及遊戲，具備豐富的怪物種類與刺激的戰鬥關卡，多樣性的互動提供新鮮感，是個奇幻風冒險單機遊戲。
 
-《魔王位上的勇者》是一款結合 RPG 與 Galgame 的劇情導向冒險通關遊戲。遊戲過程中玩家會透過是由與 NPC、地圖互動了解劇情、在戰鬥後獲得武器升級讓玩家有更多的攻擊型態，並可在往後的關卡利用並戰勝惡魔，且惡魔會隨著關卡有更多的攻擊型態 。
+### 期望完成的內容
+- [ ] 遊玩 HUD
+- [ ] 遊戲主選單
+- [ ] 至少三個地圖
+- [ ] 至少三種小怪
+- [ ] 至少三個 Boss
+- [ ] 一把可以攻擊的武器
+- [ ] 角色與地圖物件的碰撞檢測
 
+### 《元氣騎士》影片
+[![《元氣騎士》示範影片](https://img.youtube.com/vi/hvBU78oUZ0o/0.jpg)](https://youtu.be/hvBU78oUZ0o?si=6Ub1LVrvX1uhHZZP&t=453)
 
 # Development timeline 
 
@@ -49,10 +59,14 @@
 
 - Week 16 ＆ Week 17：Quality Control
   - [ ] 測試遊戲漏洞
-  - [ ] 上架 Steam（如果可以）
 
 # PTSD Girafee Adventure 通關證明
 ### 111590021 邱冠勛
-![YFHD](assets/yfhd_pass.png)
+| 遊戲畫面 | 終端機輸出 |
+| :---: | :---: |
+| <img src="assets/yfhd_girafee_window.png" width="400"> | <img src="assets/yfhd_girafee_terminal.png" width="300"> |
 
 ### 113590049 朱政全
+| 遊戲畫面 | 終端機輸出 |
+| :---: | :---: |
+| <img src="assets/kenilikecats_girafee_window.png" width="400"> | <img src="assets/kenilikecats_girafee_terminal.png" width="300"> |
